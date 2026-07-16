@@ -1,3 +1,6 @@
-echo "env/" >> .gitignore # Игнорируем папку env/
-echo "__pycache__/" >> .gitignore # Игнорируем кэш Python
-echo ".DS_Store" >> .gitignore # Для macOS
+*.pyc
+__pycache__
+env/*  # Или venv/*
+logs/*  # Логи вашего текущего проекта тоже лучше игнорировать
+*.log
+*.sqlite3
