@@ -24,11 +24,11 @@
 
 ### Шаг 1: Создание виртуального окружения
 
-\```bash
+```bash
 python -m venv env
 source env/bin/activate # Linux/macOS
 env\\Scripts\\activate.bat # Windows
-\```
+```
 
 ### Шаг 2: Установка зависимостей
 
@@ -53,7 +53,7 @@ pip install pynetbox requests
 | **LOGDIR** | Директория для сохранения логов. По умолчанию рядом со скриптами: `./logs`. |
 
 Пример заполнения:
-```
+```ini
 API_KEY="<ВАШ_ТОКЕН>"
 URLNB="https://your-netbox-instance.example/api"
 SWITCHES_FILE=switch_inventory.json
