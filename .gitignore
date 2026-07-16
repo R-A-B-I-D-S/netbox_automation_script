@@ -1,4 +1,6 @@
 *.pyc
 __pycache__
-env/*  # Или venv/*
+env/
+venv/
+logs/
 *.sqlite3
