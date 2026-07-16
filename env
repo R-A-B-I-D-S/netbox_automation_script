@@ -1,0 +1,5 @@
+API_KEY="your-api-token-here"
+URLNB="https://your-netbox-instance.example"
+SWITCHES_FILE=switch_inventory.json
+INTERFACES_FILE=./interface_templates/interface_s5731-h48t4xc.json
+LOGDIR=./logs

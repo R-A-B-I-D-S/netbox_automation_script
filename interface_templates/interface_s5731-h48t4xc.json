@@ -1,0 +1,212 @@
+{
+    "s5731-h48t4xc": [
+        {
+            "name": "GigabitEthernet0/0/1",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/2",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/3",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/4",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/5",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/6",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/7",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/8",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/9",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/10",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/11",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/12",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/13",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/14",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/15",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/16",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/17",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/18",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/19",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/20",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/21",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/22",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/23",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/24",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/25",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/26",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/27",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/28",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/29",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/30",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/31",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/32",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/33",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/34",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/35",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/36",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/37",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/38",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/39",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/40",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/41",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/42",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/43",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/44",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/45",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/46",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/47",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "GigabitEthernet0/0/48",
+            "type": "copper-1ge"
+        },
+        {
+            "name": "XGigabitEthernet0/0/1",
+            "type": "sfp-plus-10ge"
+        },
+        {
+            "name": "XGigabitEthernet0/0/2",
+            "type": "sfp-plus-10ge"
+        },
+        {
+            "name": "XGigabitEthernet0/0/3",
+            "type": "sfp-plus-10ge"
+        },
+        {
+            "name": "XGigabitEthernet0/0/4",
+            "type": "sfp-plus-10ge"
+        }
+    ]
+}

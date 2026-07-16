@@ -1,0 +1,40 @@
+[
+ {
+ "hostname": "but8-sw-102-126-2",
+ "interface": "vlan2115",
+ "type_int": "virtual",
+ "ipaddress": "10.21.15.84/24",
+ "mac_address": "",
+ "manufacturer": "snr",
+ "model": "snr-s4650x-48fq",
+ "siteslug": "bnd-12", 
+ "locationslug": "bnd12",
+ "rack": "Стойка 126",
+ "position": "4",
+ "rack_face": "front",
+ "swroleslug": "switch",
+ "platformslug": "nos",
+ "serial_number":"SW079820L325000034",
+ "hardware_version":"2.0.1", 
+ "status": "active"
+ },
+ {
+ "hostname": "but8-sw-102-127-2",
+ "interface": "vlan2115",
+ "type_int": "virtual",
+ "ipaddress": "10.21.15.85/24",
+ "mac_address": "",
+ "manufacturer": "snr",
+ "model": "snr-s4650x-48fq",
+ "siteslug": "bnd-12",
+ "locationslug": "bnd12",
+ "rack": "Стойка 127",
+ "position": "10",
+ "rack_face": "front",
+ "swroleslug": "switch",
+ "platformslug": "nos",
+ "serial_number":"SW084330M708000017",
+ "hardware_version":"3.0.1",
+ "status": "active"
+ }
+ ]

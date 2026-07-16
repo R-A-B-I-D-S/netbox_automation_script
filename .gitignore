@@ -1,0 +1,3 @@
+echo "env/" >> .gitignore # Игнорируем папку env/
+echo "__pycache__/" >> .gitignore # Игнорируем кэш Python
+echo ".DS_Store" >> .gitignore # Для macOS
